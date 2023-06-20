@@ -119,11 +119,6 @@ input {
     transition: all .5s
 }
 
-footer p {
-    margin: 0;
-    font-size: .9rem
-}
-
 /***    Register Page     ***/
 #checkbox {
     width: 1rem
