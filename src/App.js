@@ -4,7 +4,7 @@ import { Route, BrowserRouter as Router, Switch } from 'react-router-dom'
 import HomePage from './components/pages/HomePage'
 import LoginPage from './components/pages/LoginPage'
 
-import './App.css'
+import './App.css' 
 
 export default function App() {
     return (
